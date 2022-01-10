@@ -9,5 +9,5 @@ Fitxer python per a netejar les dades: (veure secció documents adjunts): per ta
 
 
 Accéss a la visialització:
-- Tableau Mireia: https://public.tableau.com/app/profile/mireia7189/viz/AccidentsalaciutatdeBarcelona/Historia1?publish=yes
+- Tableau Mireia: https://public.tableau.com/app/profile/mireia7189/viz/AccidentsalaciutatdeBarcelona/AccidentsaBarcelona?publish=yes
 
