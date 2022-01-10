@@ -4,7 +4,7 @@
 Les dades han estat obtingudes del servei de dades obertes de l'Ajuntament de Barcelona veure el següent enllaç:
 - [Accidents_ajuntament_barcelona](URL "https://opendata-ajuntament.barcelona.cat/data/ca/dataset?q=accidents&sort=fecha_publicacion+desc")
 
-Fitxer python per a netejar les dades: (veure secció documents adjunts)
+Fitxer python per a netejar les dades: (veure secció documents adjunts): per tal de poder executar el fitxer caldra canviar la ubicació del fitxer de sortida
 - [Fitxer_python](URL "https://github.com/msolanich/PRA_2-Projecte-final/blob/main/Mireia_dades_mapa_4.ipynb")
 
 
